@@ -1,4 +1,4 @@
-![alt text](https://github.com/eueduardosou/eueduardosou/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/eueduardosou/eueduardosou/blob/main/Olá, sou o Eduardo.Bem vindos.png?raw=true)
 Sou desenvolvedor há cerca de dois anos, focado principalmente em frontend. Venho de uma transição de carreira para o mundo tech e me encontrei. Sou apaixonado no que faço e busco sempre trazer o melhor e principalmente em compartilhar ideias e ações que, no fim, possam contribuir no objetivo final. Sou uma pessoa focada e incomodada, busco sempre trazer uma visão diferente, entendo que uma boa solução vem quando olhamos mais perto e temos um entendimento enorme do que estamos tratando e vamos além do que somente a resolução da solução. Adoro conversar sobre novidades e estreitar os laços com quem me cerca.
 
 - 
